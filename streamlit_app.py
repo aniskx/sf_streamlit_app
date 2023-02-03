@@ -1,4 +1,7 @@
 import streamlit 
 
 streamlit.title('Main menu')
-streamlit.text('zip_file')
+streamlit.header('Target')
+streamlit.text('Distributed computing')
+streamlit.text('Data Modeling')
+streamlit.text('Cloud tech')

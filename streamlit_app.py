@@ -2,10 +2,10 @@ import streamlit
 import pandas
 
 streamlit.title('Main menu')
-streamlit.header('Target')
-streamlit.text('Distributed computing')
-streamlit.text('Data Modeling')
-streamlit.text('Cloud tech')
+streamlit.header('Dinner')
+streamlit.text('Art1')
+streamlit.text('Art2')
+streamlit.text('Art3')
 
 streamlit.header('Platfroms')
 
